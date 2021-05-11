@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmanGupta0112
-- 👀  Ambitious student with strong work ethics , result oriented ,adaptable and always eagar to learn student . Currently pursuing Bachelor of Technology degree in Computer Science from VBSPU .
+- 👀  Ambitious student with strong work ethics , result oriented ,adaptable and always eagar to learn. Currently pursuing Bachelor of Technology degree in Computer Science from VBSPU .
       Looking for  opportunities to grow and develope my skills in data science and web development . where i can grow my skills and learn from the expert . And be a great asset to the company.
 
 - 🌱 I’m currently learning ...Flask and Machine Learning....
