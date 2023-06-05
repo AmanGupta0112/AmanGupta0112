@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AmanGupta0112
-- 👀  Ambitious student with strong work ethics , result oriented ,adaptable and always eagar to learn. Currently pursuing Bachelor of Technology degree in Computer Science from VBSPU .
-      Looking for  opportunities to grow and develope my skills in data science and web development . where i can grow my skills and learn from the expert . And be a great asset to the company.
+- 👀  Experienced Python Django software developer proficient in designing and developing robust web applications. Skilled in Python, Django, HTML, CSS, JavaScript, and SQL. Strong problem-solving ability and attention to detail, ensuring clean and maintainable code. Familiar with front-end frameworks like Bootstrap and React. Adaptable to new technologies and industry trends. Effective in collaborative team environments, following Agile methodologies. Committed to delivering high-quality, scalable, and user-friendly web applications..
 
 - 🌱 I’m currently learning ...Flask and Machine Learning....
 
