@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 - <gmail- guptaamanvns0542@gmail.com,
 - Likedin - https://www.linkedin.com/in/aman-gupta-58059614b/,
-- Phone No. - 8299131501>
+- Phone No. - 8299131501
 - Beside's developing and coding , I enjoy listening music 🎧 and gaming 💻 .
  
 
